@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FigmaToJsonGenerator</string>
+    <string name="file_path">File Path</string>
+    <string name="figma_token">Figma Token</string>
+    <string name="figma_link">Figma Link</string>
+    <string name="get_a_login_json">Get a Login Json</string>
+    <string name="get_signup_screen_json">Get SignUp Screen Json</string>
+</resources>
